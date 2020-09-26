@@ -20,12 +20,14 @@ export const Container = styled.div`
     margin: -38px auto 12px;
   }
   h1 {
+    padding: 0 12px;
     font-size: 16px;
     font-weight: 600;
     text-align: center;
     color: var(--color-black);
   }
   h2 {
+    padding: 0 12px;
     margin-top: 4px;
     font-size: 12px;
     font-weight: 400;

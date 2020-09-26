@@ -15,18 +15,18 @@ export default createGlobalStyle`
     font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
   }
   :root {
-    --color-header: #283e4a;
-    --color-linkedin: #0077b5;
-    --color-input: #e1e9ee;
-    --color-icons: #c7d1d8;
-    --color-hashtag: #7a8b98;
-    --color-background: #f5f5f5;
+    --color-header: #283E4A;
+    --color-linkedin: #0077B5;
+    --color-input: #E1E9EE;
+    --color-icons: #C7D1D8;
+    --color-hashtag: #7A8B98;
+    --color-background: #F5F5F5;
     --color-ad-text: #434649;
-    --color-panel: #fff;
+    --color-panel: #FFFFFF;
     --color-link: #0073b1;
-    --color-black: rgba(0,0,0,.9);
-    --color-gray: rgba(0,0,0,.6);
-    --color-separator: rgba(0,0,0,0.15);
-    --color-white: #fff;
+    --color-black: #000000E6;
+    --color-gray: #00000099;
+    --color-separator: #00000026;
+    --color-white: #FFFFFF;
   }
 `;
