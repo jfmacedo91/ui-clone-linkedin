@@ -4,6 +4,7 @@ import {
   Container,
   Wrapper,
   LinkedInIcon,
+  WhiteBox,
   SearchInput,
   HomeIcon,
   NotificationsIcon,
@@ -17,6 +18,7 @@ const DesktopHeader: React.FC = () => {
       <Wrapper>
         <div className="left">
           <LinkedInIcon />
+          <WhiteBox />
           <SearchInput placeholder="Pesquisar" />
         </div>
 

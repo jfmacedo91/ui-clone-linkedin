@@ -20,6 +20,7 @@ export const Container = styled.div`
 `;
 
 export const ProfileCircle = styled.img`
+  flex-shrink: 0;
   width: 28px;
   height: 28px;
   border-radius: 50%;

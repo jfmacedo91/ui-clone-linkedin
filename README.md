@@ -2,30 +2,27 @@
 UI Clone - LinkedIn Feed
 </h1>
 
-<p align="center">Responsive LinkedIn Feed UI clone for study purposes.</p>
-<p align="center">Click <a href="https://rocketseat-clone-linkedin.netlify.app/">here</a> to live preview.</p>
-
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-linkedin/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-linkedin?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
-
+<p align="center">Feed LinkedIn responsivo para fins de estudos.</p>
+<p align="center">Clique <a href="https://rocketseat-clone-linkedin.netlify.app/">aqui</a> para ver um preview.</p>
 <hr>
 
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+## Desenvolvido por
 
 [Guilherme Rodz](https://github.com/guilhermerodz)
 
-## Techs
+## Tecnologias
 
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+- React.js
+- Styled Components
+- TypeScript
 
-## Starting Dev Environment
+## Executar ambiente de desenvolvimento
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+```bash
+# Instalar dependencias
+npm install
+
+# Iniciar
+npm run start
+```
+Acessar `http://localhost:3000`.<br />

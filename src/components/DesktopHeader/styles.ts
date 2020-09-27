@@ -81,6 +81,14 @@ export const ProfileCircle = styled.img`
   border: 1px solid var(--color-icons);
 `;
 
+export const WhiteBox = styled.div`
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background-color: #fff;
+`;
+
 const generalIconsCSS = css`
   width: 24px;
   height: 24px;
@@ -91,9 +99,8 @@ export const LinkedInIcon = styled(GrLinkedin)`
   width: 34px;
   height: 34px;
   border-radius: 4px;
-  border: 1px solid var(--color-link);
   color: var(--color-link);
-  background-color: var(--color-white);
+  z-index: 2;
 `;
 
 export const HomeIcon = styled(AiFillHome)`
