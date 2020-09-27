@@ -3,7 +3,7 @@ UI Clone - LinkedIn Feed
 </h1>
 
 <p align="center">Feed LinkedIn responsivo para fins de estudos.</p>
-<p align="center">Clique <a href="https://rocketseat-clone-linkedin.netlify.app/">aqui</a> para ver um preview.</p>
+<p align="center">Clique <a href="https://jfmacedo-clone-linkedin.netlify.app">aqui</a> para ver um preview.</p>
 <hr>
 
 ## Desenvolvido por
